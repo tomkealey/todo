@@ -14,13 +14,14 @@ Follow the [tutorial](https://levelup.gitconnected.com/build-a-todo-app-in-golan
 ## Configure
 
 ### mongoDB environment variables
-Copy the ./server/.env.example to ./server/.env and modifty the variables to match your mongoDB settings.
+1. Copy the ./server/.env.example to ./server/.env  
+2. modifty the variables to match your mongoDB settings.
 
 ## Run
 
 ### server
-cd server
-go run main.go
+1. cd server
+2. Type `go run main.go`
 
 ```
 Connected to MongoDB!
@@ -29,7 +30,8 @@ Starting server on the port 8080...
 ```
 
 ### client
-npm start
+1. cd client
+2. Type `npm start`
 
 ```
 Compiled successfully!
