@@ -45,3 +45,6 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 ```
+
+## Sample
+![sample](./client/public/sample.png)
