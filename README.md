@@ -1,5 +1,5 @@
 # Introduction
-![todo](./client/public/todo.png)
+![todo](./client/public/todo.jpg)
 
 ## Introduction
 This is a simple todo app based on a tutorial by Shubham Chadokar. The server will be in Golang, the database will be MongoDB, and the frontend will be in React.
@@ -15,7 +15,7 @@ Follow the [tutorial](https://levelup.gitconnected.com/build-a-todo-app-in-golan
 
 ### mongoDB environment variables
 1. Copy the ./server/.env.example to ./server/.env  
-2. modifty the variables to match your mongoDB settings.
+2. modify the variables to match your mongoDB settings.
 
 ## Run
 
