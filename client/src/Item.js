@@ -4,7 +4,7 @@ import { Card, Header, Form, Input, Icon } from "semantic-ui-react";
 
 let endpoint = "http://localhost:8080";
 
-class ToDoList extends Component {
+class Item extends Component {
 	constructor(props) {
 		super(props);
 
@@ -145,7 +145,7 @@ class ToDoList extends Component {
 				<div className="row">
 					<br></br>
 					<Header className="header" as="h2">
-						TO DO
+						Things 4
 					</Header>
 				</div>
 				<br></br>
@@ -171,4 +171,4 @@ class ToDoList extends Component {
 	}
 }
 
-export default ToDoList;
+export default Item;
