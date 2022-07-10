@@ -8,7 +8,7 @@ This is a simple todo app based on a tutorial by Shubham Chadokar. The server wi
 2. Database — MongoDB
 3. Frontend — React
 
-## Tutorial
+## Tutorials
 Follow the [tutorial](https://levelup.gitconnected.com/build-a-todo-app-in-golang-mongodb-and-react-e1357b4690a6) here.
 
 ## Configure
