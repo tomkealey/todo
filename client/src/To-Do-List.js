@@ -143,10 +143,12 @@ class ToDoList extends Component {
 		return (
 			<div>
 				<div className="row">
+					<br></br>
 					<Header className="header" as="h2">
-						TO DO LIST
+						TO DO
 					</Header>
 				</div>
+				<br></br>
 				<div className="row">
 					<Form onSubmit={this.onSubmit}>
 						<Input
@@ -159,6 +161,7 @@ class ToDoList extends Component {
 						/>
 						{/* <Button >Create Task</Button> */}
 					</Form>
+					<br></br>
 				</div>
 				<div className="row">
 					<Card.Group>{this.state.items}</Card.Group>
